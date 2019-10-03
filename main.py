@@ -1,3 +1,6 @@
 #!new python user
+def main(msg):
+    print(msg)
 
-print("Hello")
+main("hello everyone")
+
