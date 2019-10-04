@@ -1,6 +1,7 @@
 #!new python user
 def main(msg):
-    // adding a second comment to this file.
+    // adding something differnt
+    // new and different
     print(msg)
 
 main("hello everyone")
